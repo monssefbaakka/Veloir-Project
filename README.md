@@ -1,6 +1,6 @@
-# Valoré — Digital Products Store 🌍💻
+# Veloir — Digital Products Store 🌍💻
 
-Valoré est une plateforme web fullstack permettant la vente et la gestion de produits digitaux (guides PDF, templates, mini-cours). Ce projet a été réalisé dans le cadre d'un contrôle de cours.
+J'ai fondé Veloir pour partager mes secrets via des guides exclusifs, et mettre mes compétences en filming et montage à votre disposition. Que vous souhaitiez apprendre ou déléguer, vous êtes au bon endroit. Ce projet a été réalisé dans le cadre d'un contrôle de cours.
 
 ## 🚀 Stack Technique
 - **Frontend** : Next.js 14, React, Tailwind CSS, Lucide Icons.
