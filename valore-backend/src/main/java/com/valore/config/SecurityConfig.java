@@ -45,6 +45,7 @@ public class SecurityConfig {
                         .requestMatchers("/api/reviews/**").permitAll()
                         .requestMatchers("/api/newsletter/**").permitAll()
                         .requestMatchers("/api/studio/**").permitAll()
+                        .requestMatchers("/api/quotes").permitAll()
                         .requestMatchers("/api/stripe/webhook").permitAll()
                         .requestMatchers("/api/admin/**").hasRole("ADMIN")
                         .anyRequest().authenticated()
