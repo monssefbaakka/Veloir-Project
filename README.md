@@ -1,32 +1,32 @@
 # Veloir — Digital Products Store 🌍💻
 
-J'ai fondé Veloir pour partager mes secrets via des guides exclusifs, et mettre mes compétences en filming et montage à votre disposition. Que vous souhaitiez apprendre ou déléguer, vous êtes au bon endroit. Ce projet a été réalisé dans le cadre d'un contrôle de cours.
+I founded Veloir to share my secrets through exclusive guides, and put my filming and editing skills at your disposal. Whether you want to learn or delegate, you are in the right place. This project was made as part of a course evaluation.
 
-## 🚀 Stack Technique
+## 🚀 Tech Stack
 - **Frontend** : Next.js 14, React, Tailwind CSS, Lucide Icons.
 - **Backend** : Spring Boot 3, Spring Data JPA, Java 17.
-- **Base de données** : PostgreSQL.
+- **Database** : PostgreSQL.
 
-## 🛠️ Installation et Lancement
+## 🛠️ Installation and Launch
 
 ### 1. Backend (Spring Boot)
-- Assurez-vous d'avoir une base de données PostgreSQL nommée `valore_db`.
-- Configurez vos identifiants dans `src/main/resources/application.properties`.
-- Lancez le projet via votre IDE ou avec `./mvnw spring-boot:run`.
-- L'API sera accessible sur `http://localhost:8080`.
+- Make sure you have a PostgreSQL database named `valore_db`.
+- Configure your credentials in `src/main/resources/application.properties`.
+- Launch the project via your IDE or with `./mvnw spring-boot:run`.
+- The API will be accessible on `http://localhost:8080`.
 
 ### 2. Frontend (Next.js)
-- Naviguez dans le dossier `valore-frontend`.
-- Installez les dépendances : `npm install`.
-- Lancez le serveur de développement : `npm run dev`.
-- Le site sera accessible sur `http://localhost:3000`.
+- Navigate to the `valore-frontend` folder.
+- Install dependencies: `npm install`.
+- Launch the development server: `npm run dev`.
+- The site will be accessible on `http://localhost:3000`.
 
-## 📌 Fonctionnalités (CRUD)
-- ✅ **Affichage** : Liste des produits digitaux avec design premium.
-- ✅ **Détails** : Consultation des détails d'un produit spécifique.
-- ✅ **Ajout** : Formulaire de création avec validation.
-- ✅ **Modification** : Mise à jour des informations d'un produit.
-- ✅ **Suppression** : Gestion de la suppression avec confirmation.
+## 📌 Features (CRUD)
+- ✅ **Display**: List of digital products with premium design.
+- ✅ **Details**: View details of a specific product.
+- ✅ **Add**: Creation form with validation.
+- ✅ **Modify**: Update product information.
+- ✅ **Delete**: Manage deletion with confirmation.
 
 ---
-Réalisé par **Monssef**
+Created by **Monssef**
